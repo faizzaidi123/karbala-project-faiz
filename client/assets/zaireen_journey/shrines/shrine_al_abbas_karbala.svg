@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs>
+    <!-- Dark museum luxury gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14" />
+      <stop offset="50%" stop-color="#121820" />
+      <stop offset="100%" stop-color="#070a0e" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c6a66b" />
+      <stop offset="50%" stop-color="#f5e6c8" />
+      <stop offset="100%" stop-color="#c6a66b" />
+    </linearGradient>
+    <linearGradient id="glowGrad" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#dfc08a" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#dfc08a" stop-opacity="0.0" />
+    </linearGradient>
+    <pattern id="islamicGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M20 0 L40 20 L20 40 L0 20 Z" fill="none" stroke="#c6a66b" stroke-opacity="0.04" stroke-width="1" />
+      <circle cx="20" cy="20" r="1.5" fill="#c6a66b" fill-opacity="0.08" />
+    </pattern>
+  </defs>
+
+  <!-- Base background with subtle Islamic geometric texture -->
+  <rect width="800" height="500" fill="url(#bgGrad)" />
+  <rect width="800" height="500" fill="url(#islamicGrid)" />
+  
+  <!-- Subtle accent glow -->
+  <circle cx="680" cy="90" r="180" fill="url(#glowGrad)" />
+
+  <!-- Outer museum border -->
+  <rect x="15" y="15" width="770" height="470" rx="12" fill="none" stroke="#c6a66b" stroke-opacity="0.25" stroke-width="1.5" />
+  <rect x="22" y="22" width="756" height="456" rx="8" fill="none" stroke="#dfc08a" stroke-opacity="0.10" stroke-width="1" />
+
+  <!-- Decorative corner flourishes -->
+  <path d="M22 45 L45 22 M22 22 L22 35 M22 22 L35 22" stroke="#c6a66b" stroke-width="1.5" stroke-opacity="0.6" fill="none" />
+  <path d="M778 45 L755 22 M778 22 L778 35 M778 22 L765 22" stroke="#c6a66b" stroke-width="1.5" stroke-opacity="0.6" fill="none" />
+  <path d="M22 455 L45 478 M22 478 L22 465 M22 478 L35 478" stroke="#c6a66b" stroke-width="1.5" stroke-opacity="0.6" fill="none" />
+  <path d="M778 455 L755 478 M778 478 L778 465 M778 478 L765 478" stroke="#c6a66b" stroke-width="1.5" stroke-opacity="0.6" fill="none" />
+
+  <!-- Eyebrow text & category -->
+  <text x="60" y="70" font-family="'Cinzel', 'Outfit', serif" font-size="12" letter-spacing="3" font-weight="700" fill="#c6a66b">SANCTUARY OF THE MOON OF BANU HASHIM</text>
+  
+  <!-- Status Badge -->
+  
+    <g transform="translate(560, 52)">
+      <rect width="180" height="26" rx="13" fill="#dfc08a" fill-opacity="0.18" stroke="#dfc08a" stroke-opacity="0.6" />
+      <text x="90" y="17" font-family="'Outfit', sans-serif" font-size="11" font-weight="700" fill="#dfc08a" text-anchor="middle" letter-spacing="1">BAB AL-HAWAEJ</text>
+    </g>
+  
+
+  <!-- Main Title -->
+  <text x="60" y="118" font-family="'Cinzel', 'Outfit', serif" font-size="28" font-weight="800" fill="url(#goldGrad)">Al-Abbas Holy Shrine (Karbala)</text>
+  
+  <!-- Arabic Calligraphic Title -->
+  
+    <text x="60" y="158" font-family="'Noto Naskh Arabic', 'Amiri', serif" font-size="22" font-weight="600" fill="#dfc08a" direction="rtl">العتبة العباسية المقدسة</text>
+  
+
+  <!-- Subtitle / Narrative -->
+  <text x="60" y="195" font-family="'Outfit', sans-serif" font-size="14" font-weight="400" fill="#cbd5e0">The majestic resting place of Hazrat Abu al-Fadl al-Abbas (AS), standard-bearer of Husayni caravan and supreme exemplar of loyalty and bravery.</text>
+
+  <!-- Feature Icon Artwork Illustration Box -->
+  <g transform="translate(60, 215)">
+    <rect width="680" height="120" rx="8" fill="#000000" fill-opacity="0.35" stroke="#c6a66b" stroke-opacity="0.18" />
+    
+      <g transform="translate(40, 15)">
+        <path d="M50 18 C32 36 32 55 32 75 L68 75 C68 55 68 36 50 18 Z" fill="#dfc08a" fill-opacity="0.25" stroke="#dfc08a" stroke-width="2" />
+        <line x1="50" y1="5" x2="50" y2="18" stroke="#dfc08a" stroke-width="2" />
+        <text x="100" y="35" font-family="'Cinzel', serif" font-size="18" font-weight="800" fill="#f5e6c8">SANCTUARY OF AL-ABBAS IBN ALI</text>
+        <text x="100" y="58" font-family="'Outfit', sans-serif" font-size="12" fill="#a0aec0">Connected across Bayn al-Haramayn (378 meters east of Imam Hussain Shrine).</text>
+      </g>
+    
+  </g>
+
+  <!-- Technical Telemetry Details -->
+  
+      <g transform="translate(60, 370)">
+        <circle cx="6" cy="-4" r="3" fill="#dfc08a" />
+        <text x="18" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="600" fill="#a0aec0">GPS Coordinates:</text>
+        <text x="150" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="500" fill="#f7fafc">32.61860° N, 44.03584° E</text>
+      </g>
+    
+      <g transform="translate(60, 394)">
+        <circle cx="6" cy="-4" r="3" fill="#dfc08a" />
+        <text x="18" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="600" fill="#a0aec0">Notable Features:</text>
+        <text x="158" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="500" fill="#f7fafc">Clock Tower Portal at Bab al-Qibla • Intricate Muqarnas Tilework • Al-Alqami Portal</text>
+      </g>
+    
+      <g transform="translate(60, 418)">
+        <circle cx="6" cy="-4" r="3" fill="#dfc08a" />
+        <text x="18" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="600" fill="#a0aec0">Primary Ziyarat:</text>
+        <text x="150" y="0" font-family="'Outfit', sans-serif" font-size="13" font-weight="500" fill="#f7fafc">Ziyarat of Abu al-Fadl al-Abbas (Salamullahi Alayk ya Abal Fadl)</text>
+      </g>
+    
+
+  <!-- Legal / Attribution Footer -->
+  <line x1="60" y1="460" x2="740" y2="460" stroke="#c6a66b" stroke-opacity="0.15" stroke-width="1" />
+  <text x="60" y="476" font-family="'Outfit', sans-serif" font-size="10" font-weight="400" fill="#718096">Official Shrine Documentation: General Secretariat of Al-Abbas Holy Shrine (alkafeel.net)</text>
+</svg>

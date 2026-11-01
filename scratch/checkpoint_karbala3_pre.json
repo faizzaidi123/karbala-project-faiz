@@ -1,0 +1,20 @@
+{
+  "checkpoint": "karbala_3_0_pre_upgrade",
+  "timestamp": "2026-10-17T16:12:00Z",
+  "baseVersion": "2.0_milestone9_5",
+  "targetVersion": "3.0_intelligent_ziyarat_platform",
+  "status": "active_upgrade",
+  "verifiedZeroBrokenImages": true,
+  "repositoryFootprintMb": 55.19,
+  "phases": [
+    "PHASE_A_PRODUCT_INTEGRITY_VERIFIED",
+    "PHASE_B_INTELLIGENT_ZIYARAT_ASSISTANT",
+    "PHASE_C_AR_NAVIGATION_PROTOTYPE",
+    "PHASE_D_ADVANCED_PILGRIMAGE_PLANNER",
+    "PHASE_E_DIGITAL_SACRED_KNOWLEDGE_LIBRARY",
+    "PHASE_F_IMMERSIVE_PHOTOGRAPHIC_EXPERIENCE",
+    "PHASE_G_SMART_PILGRIM_SAFETY",
+    "PHASE_H_WORLD_CLASS_MOBILE_DESIGN",
+    "PHASE_I_PERFORMANCE_PRIVACY_TESTING"
+  ]
+}

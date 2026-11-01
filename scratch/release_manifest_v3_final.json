@@ -1,0 +1,45 @@
+{
+  "release": "Karbala Smart Ziyarat Companion 3.0",
+  "version": "3.0.0-production",
+  "timestamp": "2026-10-17T17:12:00+05:30",
+  "developerCredit": {
+    "name": "Sayyed Faiz Zaidi",
+    "exactAttribution": "Developed by Sayyed Faiz Zaidi",
+    "portraitAsset": "client/assets/images/developer_sayyed_faiz_zaidi.jpg",
+    "provenance": "Original photographic portrait provided by author",
+    "placements": [
+      "#about-developer dedicated section in CinematicHomeView",
+      "Museum global footer",
+      "My Ziyarat companion footer",
+      "Ask Karbala AI assistant footer",
+      "Dedicated subviews footer",
+      "Digital Twin map header"
+    ],
+    "safetyIsolation": "Strictly excluded from emergency and active navigation interfaces"
+  },
+  "assetHealth": {
+    "totalPhotographsAudited": 521,
+    "brokenImageLinks": 0,
+    "fallbackArchitecture": "Resilient inline SVG sacred arch placeholder for unphotographed sites"
+  },
+  "projectFootprint": {
+    "measuredSize": "55.56 MB",
+    "budgetCeiling": "70.00 MB",
+    "margin": "14.44 MB"
+  },
+  "visualQA": {
+    "browserConsoleErrors": 0,
+    "viewportsVerified": ["360px", "375px", "390px", "412px", "768px", "1440px"],
+    "screenshots": [
+      "ui_dev_01_developer_section_desktop.png",
+      "ui_dev_02_developer_section_mobile.png",
+      "ui_dev_03_museum_footer_credit.png",
+      "ui_dev_04_myziyarat_footer_credit.png",
+      "ui_k3_01_ar_beacon_view.png",
+      "ui_k3_02_itinerary_planner_reorder.png",
+      "ui_k3_03_then_now_archival_slider.png",
+      "ui_k3_04_ai_assistant_contextual_actions.png",
+      "ui_k3_05_column18_emergency_safety.png"
+    ]
+  }
+}

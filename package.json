@@ -1,0 +1,16 @@
+{
+  "name": "karbala-digital-twin",
+  "version": "1.0.0",
+  "description": "Interactive Karbala Digital Twin — 61 AH Historical Experience",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.4"
+  }
+}

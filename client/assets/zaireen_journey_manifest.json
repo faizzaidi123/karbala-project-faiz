@@ -1,0 +1,764 @@
+[
+  {
+    "id": "airport_najaf_njf",
+    "category": "airports",
+    "title": "Al-Najaf International Airport (NJF)",
+    "arabicTitle": "مطار النجف الأشرف الدولي",
+    "subtitle": "The primary air hub servicing over 70% of airborne international pilgrims traveling to Karbala and Najaf.",
+    "badgeText": "OPERATIONAL • MAIN GATEWAY",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/airports/airport_najaf_njf.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "IATA / ICAO",
+        "value": "NJF / ORNI (Dedicated Pilgrim Facilities)"
+      },
+      {
+        "label": "Distance to Imam Hussain Shrine",
+        "value": "78.4 km (Smooth 4-lane Highway Corridor)"
+      },
+      {
+        "label": "Annual Pilgrim Traffic Capacity",
+        "value": "3,000,000+ Passengers (Expanded during Arbaeen & Ashura)"
+      }
+    ],
+    "legalAttribution": "Official Sovereign Aviation Registry: Iraqi Civil Aviation Authority (ICAA) • Coordinates: 31.9898° N, 44.4042° E"
+  },
+  {
+    "id": "airport_baghdad_bgw",
+    "category": "airports",
+    "title": "Baghdad International Airport (BGW)",
+    "arabicTitle": "مطار بغداد الدولي",
+    "subtitle": "Iraq's largest international airport, serving international scheduled carriers and northern ziyarat routes.",
+    "badgeText": "OPERATIONAL • CAPITAL HUB",
+    "badgeColor": "#4299e1",
+    "localPath": "assets/zaireen_journey/airports/airport_baghdad_bgw.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "IATA / ICAO",
+        "value": "BGW / ORBI (Federal Capital Commercial Terminal)"
+      },
+      {
+        "label": "Distance to Karbala Shrines",
+        "value": "105.2 km (Approx. 1h 45m via Baghdad-Hillah Expressway)"
+      },
+      {
+        "label": "Transit Facility",
+        "value": "Connected via VIP Pilgrim Coaches & Al-Karkh Railway Line"
+      }
+    ],
+    "legalAttribution": "Official Sovereign Aviation Registry: Iraqi Ministry of Transport • Coordinates: 33.2625° N, 44.2344° E"
+  },
+  {
+    "id": "airport_basra_bsr",
+    "category": "airports",
+    "title": "Basra International Airport (BSR)",
+    "arabicTitle": "مطار البصرة الدولي",
+    "subtitle": "Iraq's second largest airport, the primary entry point for Gulf and South Asian zaireen traversing from the south.",
+    "badgeText": "OPERATIONAL • SOUTHERN GATE",
+    "badgeColor": "#ed8936",
+    "localPath": "assets/zaireen_journey/airports/airport_basra_bsr.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "IATA / ICAO",
+        "value": "BSR / ORMM (Southern Ports Gateway)"
+      },
+      {
+        "label": "Distance to Karbala",
+        "value": "495.0 km (Via Highway 1 / Basra-Karbala High-Speed Rail Corridor)"
+      },
+      {
+        "label": "Passenger Profile",
+        "value": "Key hub for pilgrims from GCC, India, and Pakistan traveling via Gulf charters"
+      }
+    ],
+    "legalAttribution": "Official Sovereign Aviation Registry: Basra International Airport Authority • Coordinates: 30.5492° N, 47.6625° E"
+  },
+  {
+    "id": "airport_karbala_kib",
+    "category": "airports",
+    "title": "Karbala International Airport (KIB)",
+    "arabicTitle": "مطار كربلاء الدولي (قيد الإنشاء)",
+    "subtitle": "Major mega-infrastructure aviation project spearheaded by the Imam Hussain Holy Shrine to provide direct access to Karbala.",
+    "badgeText": "UNDER CONSTRUCTION • NON-OPERATIONAL",
+    "badgeColor": "#e53e3e",
+    "localPath": "assets/zaireen_journey/airports/airport_karbala_kib.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Operational Status",
+        "value": "NON-OPERATIONAL (Under Advanced Construction; Target Inauguration 2026+)"
+      },
+      {
+        "label": "Runway Specification",
+        "value": "4,500m x 60m Category 4F (Capable of Airbus A380 & Boeing 777 operations)"
+      },
+      {
+        "label": "Planned Capacity",
+        "value": "Phase 1: 2.5 Million / Phase 2: 20 Million Annual Zaireen"
+      }
+    ],
+    "legalAttribution": "Official Verification: Imam Hussain Holy Shrine Engineering Directorate • Independent Status: Commercial flights not yet accredited."
+  },
+  {
+    "id": "step_01_landing",
+    "category": "arrival_steps",
+    "title": "Step 1: Aircraft Landing & Gateway Arrival",
+    "arabicTitle": "الهبوط في المطار واستقبال الزائرين",
+    "subtitle": "Touchdown at Najaf (NJF) or Baghdad (BGW). Prepare travel documents and disembark to the passenger arrival concourse.",
+    "badgeText": "FLIGHT TOUCHDOWN",
+    "badgeColor": "#c6a66b",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_01_landing.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Pilgrim Checklist",
+        "value": "Keep Passport, Entry Visa confirmation, and boarding pass easily accessible"
+      },
+      {
+        "label": "Average Disembarkation",
+        "value": "15–25 minutes from wheel stop to immigration queue"
+      }
+    ],
+    "legalAttribution": "Standard ICAO International Arrival Protocol • Ground handling certified by Iraqi Civil Aviation Authority"
+  },
+  {
+    "id": "step_02_immigration",
+    "category": "arrival_steps",
+    "title": "Step 2: Passport Control & Ziyarat Visa Stamping",
+    "arabicTitle": "الجوازات وتدقيق تأشيرات الدخول",
+    "subtitle": "Proceed to sovereign passport control counters. Present passport with 6+ months validity and approved pilgrim entry visa.",
+    "badgeText": "BORDER CONTROL",
+    "badgeColor": "#4299e1",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_02_immigration.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Required Documents",
+        "value": "Passport (min 6 months validity) + Iraqi Visa on Arrival or E-Visa"
+      },
+      {
+        "label": "Estimated Clearance",
+        "value": "10–30 minutes (Express processing during peak religious observances)"
+      }
+    ],
+    "legalAttribution": "Federal Ministry of Interior • Directorate of Passports & Residence Entry Protocols"
+  },
+  {
+    "id": "step_03_baggage",
+    "category": "arrival_steps",
+    "title": "Step 3: Baggage Claim & Trolley Services",
+    "arabicTitle": "استلام الأمتعة والحقائب",
+    "subtitle": "Follow electronic monitors to designated carousel belts. Complimentary luggage trolleys and porter assistance available.",
+    "badgeText": "BAGGAGE RECLAIM",
+    "badgeColor": "#ed8936",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_03_baggage.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Baggage Wait Time",
+        "value": "15–35 minutes after flight docking"
+      },
+      {
+        "label": "Trolley Accessibility",
+        "value": "Complimentary luggage carts located adjacent to each belt"
+      }
+    ],
+    "legalAttribution": "Airport Ground Operations • Lost & Mishandled Baggage Office open 24/7"
+  },
+  {
+    "id": "step_04_sim_connectivity",
+    "category": "arrival_steps",
+    "title": "Step 4: Local SIM & 4G/5G Connectivity Activation",
+    "arabicTitle": "شرائح الاتصال والإنترنت المحلي",
+    "subtitle": "Official telecom kiosks located in the arrival concourse provide high-speed tourist data SIMs and eSIM QR codes.",
+    "badgeText": "TELECOM & DATA",
+    "badgeColor": "#9f7aea",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_04_sim_connectivity.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Recommended Package",
+        "value": "Tourist Ziyarat SIM (~$10–$15 USD / 15,000–20,000 IQD)"
+      },
+      {
+        "label": "Network Coverage",
+        "value": "Continuous 4G LTE coverage across the entire Najaf-Karbala Highway"
+      }
+    ],
+    "legalAttribution": "Iraqi Communications and Media Commission (CMC) Registered Operators"
+  },
+  {
+    "id": "step_05_currency_exchange",
+    "category": "arrival_steps",
+    "title": "Step 5: Official Currency Exchange (Iraqi Dinar IQD)",
+    "arabicTitle": "تصريف العملة والدينار العراقي",
+    "subtitle": "Convert foreign currency (USD, EUR, PKR, INR, AED) into official Iraqi Dinar (IQD) at licensed bank branches inside the terminal.",
+    "badgeText": "CURRENCY & BANKING",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_05_currency_exchange.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Cash Rule",
+        "value": "Cash is essential for local mowkeb donations, taxi fares, and bazaar shopping"
+      },
+      {
+        "label": "Denominations",
+        "value": "Request 10,000 and 25,000 IQD banknotes for convenience"
+      }
+    ],
+    "legalAttribution": "Regulated by Central Bank of Iraq (CBI) licensed exchange offices"
+  },
+  {
+    "id": "step_06_transport",
+    "category": "arrival_steps",
+    "title": "Step 6: Ground Transportation & Taxi Dispatch",
+    "arabicTitle": "النقل البري وتكسي المطار المعتمد",
+    "subtitle": "Engage official airport taxis or holy shrine transport services at the regulated dispatch desk outside the terminal exit.",
+    "badgeText": "OFFICIAL TRANSPORT",
+    "badgeColor": "#ecc94b",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_06_transport.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Najaf to Karbala Taxi",
+        "value": "Fixed official tariff: 40,000–60,000 IQD ($30–$45 USD per vehicle)"
+      },
+      {
+        "label": "Travel Duration",
+        "value": "Approx. 75 minutes along the 4-lane Highway 9 corridor"
+      }
+    ],
+    "legalAttribution": "Airport Directorate of Transportation • Certified Pilgrim Taxi Union"
+  },
+  {
+    "id": "step_07_hotel_arrival",
+    "category": "arrival_steps",
+    "title": "Step 7: Hotel Arrival & Check-In in Karbala",
+    "arabicTitle": "الوصول إلى الفندق واستلام الغرف",
+    "subtitle": "Arrive at your hotel in Karbala. Present passport and booking voucher for registration, store valuables in room safe, and prepare for Ziyarat.",
+    "badgeText": "HOTEL CHECK-IN",
+    "badgeColor": "#38b2ac",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_07_hotel_arrival.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Hotel Proximity Tip",
+        "value": "Hotels inside outer cordon (500m) require walking or electric cart access"
+      },
+      {
+        "label": "Pilgrim Hospitality",
+        "value": "Complimentary traditional Iraqi cardamom tea and dates provided at check-in"
+      }
+    ],
+    "legalAttribution": "Karbala Governorate Hotel & Tourism Association Certified Accommodations"
+  },
+  {
+    "id": "step_08_shrine_journey",
+    "category": "arrival_steps",
+    "title": "Step 8: Sacred Journey to Bayn al-Haramayn",
+    "arabicTitle": "المسير المقدس إلى بين الحرمين الشريفين",
+    "subtitle": "Walk toward the Holy Sanctuaries. Experience the grand concourse connecting Imam Hussain (AS) and Al-Abbas (AS).",
+    "badgeText": "SACRED SANCTUARY",
+    "badgeColor": "#c6a66b",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_08_shrine_journey.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Shoe Deposit (Keshwan)",
+        "value": "Free deposit lockers located at Bab al-Qibla, Bab al-Rajaa, and Bab al-Furat"
+      },
+      {
+        "label": "Baggage Security",
+        "value": "Electronic devices must be deposited at Amanat lockers before inner courtyards"
+      }
+    ],
+    "legalAttribution": "Astan Quds Husayniyya & Abbasiyya Joint Sanctuary Protocol"
+  },
+  {
+    "id": "step_09_accessibility",
+    "category": "arrival_steps",
+    "title": "Step 9: Accessibility, Wheelchairs & Senior Care",
+    "arabicTitle": "خدمات ذوي الاحتياجات الخاصة وكبار السن",
+    "subtitle": "Dedicated accessibility infrastructure including free wheelchair loans, volunteer escorts, step-free ramps, and electric cart shuttles.",
+    "badgeText": "ACCESSIBLE ZIYARAT",
+    "badgeColor": "#4fd1c5",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_09_accessibility.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Wheelchair Desks",
+        "value": "Available 24/7 at Astan Quds volunteer stations"
+      },
+      {
+        "label": "Electric Cart Service",
+        "value": "Operates continuously along outer cordon access corridors"
+      }
+    ],
+    "legalAttribution": "Holy Shrine Division of Humanitarian & Elderly Pilgrim Support"
+  },
+  {
+    "id": "step_10_emergency",
+    "category": "arrival_steps",
+    "title": "Step 10: 24/7 Emergency, Health & Safety Assistance",
+    "arabicTitle": "الطوارئ والسلامة وإرشاد التائهين",
+    "subtitle": "Comprehensive safety network: Iraqi Police (104), Ambulance (122), Astan Guidance (+964 32 322 0000), and lost family centers.",
+    "badgeText": "SAFETY & EMERGENCY",
+    "badgeColor": "#f56565",
+    "localPath": "assets/zaireen_journey/arrival_steps/step_10_emergency.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Lost Persons Center",
+        "value": "Markaz al-Mafqoodin situated on central Bayn al-Haramayn with multilingual staff"
+      },
+      {
+        "label": "Medical Stations",
+        "value": "Over 85 field medical clinics and emergency triage units in holy core"
+      }
+    ],
+    "legalAttribution": "National Civil Defense • Karbala Health Directorate • Astan Security Operations"
+  },
+  {
+    "id": "transport_vip_taxi",
+    "category": "transport",
+    "title": "Airport Official VIP Taxi (Private Sedan)",
+    "arabicTitle": "تكسي المطار الخاص والمكيف",
+    "subtitle": "Air-conditioned modern sedans (Toyota Camry / Hyundai Sonata) authorized for direct airport pickup and highway transit.",
+    "badgeText": "FASTEST • DIRECT",
+    "badgeColor": "#ecc94b",
+    "localPath": "assets/zaireen_journey/transport/transport_vip_taxi.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Fare Estimate",
+        "value": "45,000–60,000 IQD (~$35–$45 USD per vehicle)"
+      },
+      {
+        "label": "Travel Time from Najaf",
+        "value": "1 Hour 15 Minutes"
+      },
+      {
+        "label": "Luggage Capacity",
+        "value": "2 Large Suitcases + 2 Cabin Bags"
+      }
+    ],
+    "legalAttribution": "Authorized Airport Taxi Dispatch Desk • Fixed government tariff"
+  },
+  {
+    "id": "transport_shrine_bus",
+    "category": "transport",
+    "title": "Holy Shrine Pilgrim Coaster Shuttle",
+    "arabicTitle": "حافلات العتبة المقدسة المكوكية",
+    "subtitle": "Modern 24-seater Toyota Coaster and luxury coaches operated by Astan Quds for direct transfer between airport and holy precincts.",
+    "badgeText": "ECONOMICAL • RELIABLE",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/transport/transport_shrine_bus.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Fare Estimate",
+        "value": "5,000–10,000 IQD (~$4–$8 USD per seat)"
+      },
+      {
+        "label": "Frequency",
+        "value": "Every 30–45 minutes during peak flight arrivals"
+      },
+      {
+        "label": "Comfort",
+        "value": "Climate-controlled, USB charging ports, luggage stowage bays"
+      }
+    ],
+    "legalAttribution": "Astan Quds Transport Division • Direct checkpoint priority"
+  },
+  {
+    "id": "transport_private_coach",
+    "category": "transport",
+    "title": "Family VIP Suburban / Staria Van",
+    "arabicTitle": "سيارات عائلية VIP كبيرة",
+    "subtitle": "Spacious 7 to 11-seater GMC Yukon, Chevrolet Suburban, and Hyundai Staria for large family delegations with heavy luggage.",
+    "badgeText": "FAMILY VIP",
+    "badgeColor": "#9f7aea",
+    "localPath": "assets/zaireen_journey/transport/transport_private_coach.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Fare Estimate",
+        "value": "75,000–100,000 IQD (~$60–$80 USD per van)"
+      },
+      {
+        "label": "Passenger Capacity",
+        "value": "7 to 11 Passengers"
+      },
+      {
+        "label": "Luggage Capacity",
+        "value": "8–12 Large Bags"
+      }
+    ],
+    "legalAttribution": "Certified Iraqi Tourism & Pilgrim Transport Service"
+  },
+  {
+    "id": "hotel_the_baron",
+    "category": "hotels",
+    "title": "The Baron Hotel Karbala",
+    "arabicTitle": "فندق البارون كربلاء",
+    "subtitle": "Karbala's premier luxury landmark hotel featuring panoramic sanctuary views, fine halal dining, spa, and 24/7 dedicated shrine shuttles.",
+    "badgeText": "5-STAR LUXURY",
+    "badgeColor": "#c6a66b",
+    "localPath": "assets/zaireen_journey/hotels/hotel_the_baron.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Distance to Shrines",
+        "value": "3.2 km (7 min via private hotel shuttle bus)"
+      },
+      {
+        "label": "Amenities",
+        "value": "Heated Indoor Pool, 3 Restaurants, Multilingual Concierge (Arabic, English, Urdu)"
+      },
+      {
+        "label": "Accessibility",
+        "value": "100% Step-Free Accessible with specialized senior suites"
+      }
+    ],
+    "legalAttribution": "Verified 5-Star Hotel License • Karbala Tourism Board"
+  },
+  {
+    "id": "hotel_rayhaan_rotana",
+    "category": "hotels",
+    "title": "Karbala Rayhaan by Rotana",
+    "arabicTitle": "فندق كربلاء ريحان من روتانا",
+    "subtitle": "International standard luxury hotel located near Bab Baghdad, within comfortable walking proximity to Al-Abbas Shrine.",
+    "badgeText": "5-STAR ROTANA",
+    "badgeColor": "#4299e1",
+    "localPath": "assets/zaireen_journey/hotels/hotel_rayhaan_rotana.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Distance to Al-Abbas Shrine",
+        "value": "1.1 km (Approx. 12 min walk / 4 min cart)"
+      },
+      {
+        "label": "Dining",
+        "value": "Four international and oriental halal dining venues"
+      },
+      {
+        "label": "Services",
+        "value": "Dedicated prayer facilities, currency exchange desk, high-speed Wi-Fi"
+      }
+    ],
+    "legalAttribution": "Rotana International Hotels & Resorts • Karbala Operations"
+  },
+  {
+    "id": "hotel_durr_karbala",
+    "category": "hotels",
+    "title": "Durr Al-Karbala Luxury Hotel",
+    "arabicTitle": "فندق در كربلاء الفاخر",
+    "subtitle": "Situated just steps from Bab al-Qibla of Imam Hussain Shrine, allowing effortless daily visits for elderly and family pilgrims.",
+    "badgeText": "650M TO SHRINE",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/hotels/hotel_durr_karbala.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Walking Distance",
+        "value": "650 meters to Imam Hussain Sanctuary Gate"
+      },
+      {
+        "label": "Suitability",
+        "value": "Optimal for senior pilgrims desiring frequent ziyarat between prayers"
+      },
+      {
+        "label": "Atmosphere",
+        "value": "Calm devotional ambiance with rooftop view of the golden domes"
+      }
+    ],
+    "legalAttribution": "Accredited Karbala Hospitality Provider"
+  },
+  {
+    "id": "shrine_imam_hussain_karbala",
+    "category": "shrines",
+    "title": "Imam Hussain Holy Shrine (Karbala)",
+    "arabicTitle": "العتبة الحسينية المقدسة",
+    "subtitle": "The eternal sanctuary of Imam Hussain ibn Ali (AS), martyred on 10 Muharram 61 AH alongside his loyal household and companions.",
+    "badgeText": "RAWDA HUSAYNIYYA",
+    "badgeColor": "#c6a66b",
+    "localPath": "assets/zaireen_journey/shrines/shrine_imam_hussain_karbala.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "GPS Coordinates",
+        "value": "32.61603° N, 44.03248° E (Karbala Center)"
+      },
+      {
+        "label": "Architecture",
+        "value": "31m Pure Gilded Dome • Twin 35m Southern Minarets • 15,000 m² Courtyard"
+      },
+      {
+        "label": "Primary Ziyarat",
+        "value": "Ziyarat Warith & Ziyarat Ashura"
+      }
+    ],
+    "legalAttribution": "Official Shrine Documentation: General Secretariat of Astan Quds Husayniyya (imamhussain.org)"
+  },
+  {
+    "id": "shrine_al_abbas_karbala",
+    "category": "shrines",
+    "title": "Al-Abbas Holy Shrine (Karbala)",
+    "arabicTitle": "العتبة العباسية المقدسة",
+    "subtitle": "The majestic resting place of Hazrat Abu al-Fadl al-Abbas (AS), standard-bearer of Husayni caravan and supreme exemplar of loyalty and bravery.",
+    "badgeText": "BAB AL-HAWAEJ",
+    "badgeColor": "#dfc08a",
+    "localPath": "assets/zaireen_journey/shrines/shrine_al_abbas_karbala.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "GPS Coordinates",
+        "value": "32.61860° N, 44.03584° E"
+      },
+      {
+        "label": "Notable Features",
+        "value": "Clock Tower Portal at Bab al-Qibla • Intricate Muqarnas Tilework • Al-Alqami Portal"
+      },
+      {
+        "label": "Primary Ziyarat",
+        "value": "Ziyarat of Abu al-Fadl al-Abbas (Salamullahi Alayk ya Abal Fadl)"
+      }
+    ],
+    "legalAttribution": "Official Shrine Documentation: General Secretariat of Al-Abbas Holy Shrine (alkafeel.net)"
+  },
+  {
+    "id": "shrine_imam_ali_najaf",
+    "category": "shrines",
+    "title": "Imam Ali Holy Shrine (Najaf al-Ashraf)",
+    "arabicTitle": "العتبة العلوية المقدسة (النجف الأشرف)",
+    "subtitle": "The supreme spiritual sanctuary of Amir al-Mu'minin Ali ibn Abi Talib (AS), cousin and son-in-law of Prophet Muhammad ﷺ, situated 78km south of Karbala.",
+    "badgeText": "AMIR AL-MU'MININ",
+    "badgeColor": "#ecc94b",
+    "localPath": "assets/zaireen_journey/shrines/shrine_imam_ali_najaf.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "GPS Coordinates",
+        "value": "31.9961° N, 44.3142° E (Najaf Old City)"
+      },
+      {
+        "label": "Expansion Project",
+        "value": "Courtyard of Sayyida Fatima (SA) adding over 200,000 m² for zaireen"
+      },
+      {
+        "label": "Proximity to Karbala",
+        "value": "78.5 km along Pole markers 1 through 1452"
+      }
+    ],
+    "legalAttribution": "Official Shrine Documentation: Astan Alawiyya Holy Shrine (imamali.net)"
+  },
+  {
+    "id": "shrine_al_kadhimayn_baghdad",
+    "category": "shrines",
+    "title": "Al-Kadhimayn Holy Shrine (Baghdad)",
+    "arabicTitle": "العتبة الكاظمية المقدسة (بغداد)",
+    "subtitle": "The magnificent twin-domed sanctuary of Imam Musa al-Kadhim (7th Imam) and Imam Muhammad al-Jawad (9th Imam) in northern Baghdad.",
+    "badgeText": "TWIN GOLDEN DOMES",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/shrines/shrine_al_kadhimayn_baghdad.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "GPS Coordinates",
+        "value": "33.3804° N, 44.3392° E (Baghdad, Iraq)"
+      },
+      {
+        "label": "Distance from Karbala",
+        "value": "115 km north along the Baghdad highway corridor"
+      },
+      {
+        "label": "Interred Personalities",
+        "value": "Imam Musa al-Kadhim (AS) & Imam Muhammad al-Taqi al-Jawad (AS)"
+      }
+    ],
+    "legalAttribution": "Official Shrine Documentation: General Secretariat of Al-Kadhimayn Holy Shrine (al-kadhum.com)"
+  },
+  {
+    "id": "shrine_al_askari_samarra",
+    "category": "shrines",
+    "title": "Al-Askari Holy Shrine (Samarra)",
+    "arabicTitle": "العتبة العسكرية المقدسة (سامراء)",
+    "subtitle": "The holy resting place of Imam Ali al-Hadi (10th Imam) and Imam Hasan al-Askari (11th Imam), alongside Lady Narjis and the Maqam of the 12th Imam.",
+    "badgeText": "ASKARIYYA SAMARRA",
+    "badgeColor": "#9f7aea",
+    "localPath": "assets/zaireen_journey/shrines/shrine_al_askari_samarra.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "GPS Coordinates",
+        "value": "34.1986° N, 43.8739° E (Samarra, Salah al-Din Governorate)"
+      },
+      {
+        "label": "Distance from Karbala",
+        "value": "230 km north (via Baghdad northern orbital motorway)"
+      },
+      {
+        "label": "Security & Access",
+        "value": "Full security escort protocols and dedicated pilgrim bus convoys"
+      }
+    ],
+    "legalAttribution": "Official Shrine Documentation: General Secretariat of Al-Askari Holy Shrine (askarian.iq)"
+  },
+  {
+    "id": "guide_document_checklist",
+    "category": "offline_guides",
+    "title": "Essential Pilgrim Travel Checklist",
+    "arabicTitle": "قائمة الوثائق ومستلزمات السفر",
+    "subtitle": "Verified checklist of mandatory documents, health essentials, and currency requirements for trouble-free entry into Iraq.",
+    "badgeText": "TRAVEL CHECKLIST",
+    "badgeColor": "#48bb78",
+    "localPath": "assets/zaireen_journey/offline_guides/guide_document_checklist.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Core Documents",
+        "value": "Passport, Visa, Hotel Confirmation, Emergency Medical Card"
+      },
+      {
+        "label": "Clothing Essentials",
+        "value": "Modest Islamic attire, comfortable walking sandals with extra socks"
+      }
+    ],
+    "legalAttribution": "Self-contained offline checklist • Operates without active internet connection"
+  },
+  {
+    "id": "guide_emergency_dial",
+    "category": "offline_guides",
+    "title": "Emergency Hotlines & Medical Triage Card",
+    "arabicTitle": "أرقام الطوارئ والمستشفيات المعتمدة",
+    "subtitle": "One-touch verified emergency numbers and holy shrine dispatch contacts in Karbala and Najaf.",
+    "badgeText": "OFFLINE EMERGENCY",
+    "badgeColor": "#f56565",
+    "localPath": "assets/zaireen_journey/offline_guides/guide_emergency_dial.svg",
+    "width": 800,
+    "height": 500,
+    "aspectRatio": 1.6,
+    "format": "svg",
+    "isOfflineAvailable": true,
+    "telemetry": [
+      {
+        "label": "Toll-Free Numbers",
+        "value": "104 (Police Dispatch) • 122 (Medical Emergency) • 115 (Fire Rescue)"
+      },
+      {
+        "label": "Hospital Emergency Bay",
+        "value": "Al-Safir Hospital: +964 32 328 100 (Direct)"
+      }
+    ],
+    "legalAttribution": "Audited against National Communications and Media Commission Registry"
+  }
+]
